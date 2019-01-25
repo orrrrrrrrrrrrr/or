@@ -5,4 +5,5 @@
     g.font = "80px monospace";
     g.fillStyle = "#00ff00";
     g.fillText( "こんにちは世界", 40, 80 );
+    g.fillText( "おはよう世界",40,250);
 }
